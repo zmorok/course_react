@@ -1,14 +1,14 @@
 {
 	"urls": {
-		"books": "/tradeunity/items/books/",
-		"electronics": "/tradeunity/items/electronics/",
-		"furniture": "/tradeunity/items/furniture/",
-		"jewelry": "/tradeunity/items/jewelry/",
-		"pet_supplies": "/tradeunity/items/pet_supplies/",
-		"products": "/tradeunity/items/products/",
-		"shoes": "/tradeunity/items/shoes/",
-		"sport": "/tradeunity/items/sport/",
-		"stationery": "/tradeunity/items/stationery/"
+		"books": "/course_react/items/books/",
+		"electronics": "/course_react/items/electronics/",
+		"furniture": "/course_react/items/furniture/",
+		"jewelry": "/course_react/items/jewelry/",
+		"pet_supplies": "/course_react/items/pet_supplies/",
+		"products": "/course_react/items/products/",
+		"shoes": "/course_react/items/shoes/",
+		"sport": "/course_react/items/sport/",
+		"stationery": "/course_react/items/stationery/"
 	},
 	"items": {
 		"books": [
