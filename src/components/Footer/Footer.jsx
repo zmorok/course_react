@@ -60,7 +60,7 @@ const Footer = () => {
 							</Link>
 						</div>
 						<div>
-							<Link target='_blank' to='https://www.youtube.com/'>
+							<Link target='_blank' to='https://www.youtube.com/@zmorok'>
 								<Icon name='youtube' alt='youtube.svg' />
 							</Link>
 						</div>

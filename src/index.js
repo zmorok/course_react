@@ -9,7 +9,7 @@ import 'normalize.css'
 import App from './App'
 
 // получение товаров с items.json и добавление их в store
-await fetch('/tradeunity/items.json')
+await fetch('/course_react/items.json')
 	.then(response => response.json())
 	.then(data => {
 		store.dispatch(setGoods(data))

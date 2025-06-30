@@ -14,7 +14,7 @@ import './root.css'
 const App = () => {
 	return (
 		<>
-			<Router basename='/tradeunity'>
+			<Router basename='/course_react'>
 				<Header />
 				<Routes>
 					<Route path='/' element={<StartPage />} />
